@@ -1,7 +1,7 @@
 #include <iostream>
-#include "librerias.hpp"
-#include "cajero.cpp"
-#include "cliente.cpp"
+#include "archivos.h/librerias.hpp"
+#include "archivos.h/cajero.hpp"
+#include "archivos.h/cliente.hpp"
 using namespace std;
 
 int main ()
